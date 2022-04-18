@@ -5,4 +5,4 @@ Questo è un progetto per condividere, creare e modificare i file della traduzio
 
 Se hai feedback, commenti, domande o traduzioni su questo progetto, utilizza il server Discord italiano per Vtol: https://discord.gg/Hxyptv8zry
 
-Per scaricare la traduzione, premere il tasto "Code" verde e poi "Download Zip". Dovrai decomprimerli e inserirli la cartella "it" all'interno di VTOL VR.
+Per scaricare la traduzione, premere il tasto "Code" verde e poi "Download Zip". Dovrai decomprimere i file e inserirli la cartella "it" all'interno di VTOL VR.
