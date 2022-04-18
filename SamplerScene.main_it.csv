@@ -1,0 +1,23 @@
+Key,Description,en,it
+cloudDiagnostics_title,UI Text,Cloud Diagnostics,
+cloudDiagnostics_descript,UI Text,"Would you like to opt-in to enable cloud diagnostics? Anonymous information such as error messages, system specifications, and game version will be sent to the developer to help track down bugs and provide a smoother game experience. It would be a huge help! This setting can be changed at any time in the game settings menu.",
+Text (2)_761854,UI Text,Accept,
+Text (2)_757242,UI Text,Deny,
+news_workshop,Workshop notification window,"Download, play, and rate community-made missions and campaigns without leaving VR!
+
+Upload custom missions and maps in VTEditor!",
+quitButton_709596,VR Interactable,Quit Game,
+quitButtonText_711462,UI Text,Quit,
+acceptEulaToPlay_655458,UI Text,Accept EULA to play,
+startGameButton_714120,VR Interactable,Start Game,
+startGameLabel_705546,UI Text,Start Game,
+disclaimerText_707784,UI Text,"Motion Sickness Warning:
+This game may induce motion sickness.  
+It may take some time to get used to, but the feeling of nausea will diminish with practice. 
+
+If at any point you feel nauseous, please remove the HMD and take a break.",
+Title_764004,UI Text,Language,
+AcceptButton_766562,VR Interactable,Accept,
+DenyButton_760444,VR Interactable,Deny,
+SelectLangButton_2211708,VR Interactable,Select Language,
+Handle_759118,VR Interactable,Scroll,
