@@ -1,64 +1,64 @@
 Key,Description,en,it
-throttleInteractable_859490,VR Interactable,Throttle,
-autoAdjustJoyInteractable_856740,VR Interactable,Auto Adjust Joystick,
-joyParent_856842,VR Interactable,Joystick,
-dButtonBase_857788,VR Interactable,Adjust Left,
-dButtonBase (1)_856914,VR Interactable,Adjust Right,
-dButtonBase (2)_858724,VR Interactable,Adjust Forward,
-dButtonBase (3)_856684,VR Interactable,Adjust Back,
-dButtonBase (4)_860052,VR Interactable,Adjust Up,
-dButtonBase (5)_857762,VR Interactable,Adjust Down,
-ToggleAdjustJoyInteractable_855938,VR Interactable,Toggle Auto Adjust,
-CockpitLightsInteractable_857330,VR Interactable,Cockpit Lights,
-BayLightsInteractable_855990,VR Interactable,Bay Lights,
-LabelBrightnessKnob_859032,VR Interactable,Instrument Brightness,
-LabelGlowPowerInteractable_859822,VR Interactable,Instrument Lights,
-NavLightSwitchInteractable_857704,VR Interactable,Navigation Lights,
-StrobeSwitchInteractable_857192,VR Interactable,Strobe Lights,
-LandingLightSwitchInteractable_860068,VR Interactable,Landing Lights,
+throttleInteractable_859490,VR Interactable,Throttle,Manetta
+autoAdjustJoyInteractable_856740,VR Interactable,Auto Adjust Joystick,Auto Regolazione
+joyParent_856842,VR Interactable,Joystick,Joystick
+dButtonBase_857788,VR Interactable,Adjust Left,Sposta a Sinistra
+dButtonBase (1)_856914,VR Interactable,Adjust Right,Sposta a Destra
+dButtonBase (2)_858724,VR Interactable,Adjust Forward,Sposta in Avanti
+dButtonBase (3)_856684,VR Interactable,Adjust Back,Sposta Indietro
+dButtonBase (4)_860052,VR Interactable,Adjust Up,Sposta SU
+dButtonBase (5)_857762,VR Interactable,Adjust Down,Sposta Giù
+ToggleAdjustJoyInteractable_855938,VR Interactable,Toggle Auto Adjust,Auto Regolazione ON/OFF
+CockpitLightsInteractable_857330,VR Interactable,Cockpit Lights,Luci Cabina
+BayLightsInteractable_855990,VR Interactable,Bay Lights,Luci Baia di Carico
+LabelBrightnessKnob_859032,VR Interactable,Instrument Brightness,Luminosità Strumenti
+LabelGlowPowerInteractable_859822,VR Interactable,Instrument Lights,Luci Strumentazioni
+NavLightSwitchInteractable_857704,VR Interactable,Navigation Lights,Luci di Navigazione
+StrobeSwitchInteractable_857192,VR Interactable,Strobe Lights,Luci Strobo
+LandingLightSwitchInteractable_860068,VR Interactable,Landing Lights,Luci di Atterraggio
 ejectInteractable_858246,VR Interactable,Eject,
 raiseSeatInter_857284,VR Interactable,Raise Seat,Alza il Sedile
 lowerSeatInter_856168,VR Interactable,Lower Seat,Abbassa il Sedile
 ButtonText_855888,UI Text,"Recenter
-seat",
-ButtonText_855804,UI Text,Restart,
+seat",Ricentra Sedile
+ButtonText_855804,UI Text,Restart,Ricomincia
 ButtonText_858140,UI Text,"exit
-mission",
+mission",Esci dalla Missione
 ButtonText_859092,UI Text,"Quick
-save", Salvataggio Rapido
-ButtonText_857740,UI Text,Load,
-ButtonText_856918,UI Text,Save,
-helmVisorInteractable_857720,VR Interactable,Visor,
-helmNVGInteractable_856016,VR Interactable,NVG,
+save",Salvataggio Rapido
+ButtonText_857740,UI Text,Load,Carica
+ButtonText_856918,UI Text,Save,Salva
+helmVisorInteractable_857720,VR Interactable,Visor,Visore
+helmNVGInteractable_856016,VR Interactable,NVG,Visore Notturno
 PendingText_857928,UI Text,in progress...,
-CompleteText_856172,UI Text,COMPLETE,
+CompleteText_856172,UI Text,COMPLETE,COMPLETA
 MissionText_855910,UI Text,"MISSION
-",
-FailedText_855830,UI Text,FAILED,
-Handle_112840,VR Interactable,Scroll,
-Text_857226,UI Text,Restart Mission,
+",MISSIONE
+FailedText_855830,UI Text,FAILED,FALLITA
+Handle_112840,VR Interactable,Scroll,Scorri
+Text_857226,UI Text,Restart Mission,Ricomncia Missione
 ReturnButton_856630,VR Interactable,Return to Main,
-Text_859052,UI Text,Finish Mission,
-ToggleLogButton_860176,VR Interactable,Toggle Flight Log,
-Text_859844,UI Text,Show/Hide Flight Log,
-ContinueFlightButton_858160,VR Interactable,Continue Flight,
-Text_857174,UI Text,Flight log,
-UpIcon_857052,VR Interactable,Scroll Up,
-DnIcon_859440,VR Interactable,Scroll Down,
+Text_859052,UI Text,Finish Mission,Concludi Missione
+ToggleLogButton_860176,VR Interactable,Toggle Flight Log,Apri il Flight Log
+Text_859844,UI Text,Show/Hide Flight Log,Mostra/Nascondi Log
+ContinueFlightButton_858160,VR Interactable,Continue Flight,Continua il Volo
+Text_857174,UI Text,Flight log,Registro di Volo
+UpIcon_857052,VR Interactable,Scroll Up,Scorri in Alto
+DnIcon_859440,VR Interactable,Scroll Down,Scorri in Basso
 BottomIcon_857190,VR Interactable,To Bottom,
-SaveToDiskText_857640,VR Interactable,Save Flight Log,
-completionTimeLabel_-10687514,UI Text,Completion Time:,
-releaseLabel_859238,UI Text,RELEASE,
-AirspeedLabel_857044,UI Text,SPEED,
+SaveToDiskText_857640,VR Interactable,Save Flight Log,Salva il registro di Volo
+completionTimeLabel_-10687514,UI Text,Completion Time:,Tempo di Completamento
+releaseLabel_859238,UI Text,RELEASE,RILASCIA
+AirspeedLabel_857044,UI Text,SPEED,VEOLOCITA'
 Label_858112,UI Text,TILT,
 Label_856174,UI Text,HULL,
 VertVelLabel_857254,UI Text,VERT,
 ASLText_858014,UI Text,ASL,
 RDRAltText_858872,UI Text,RDR,
-Text_857542,UI Text,[ COLLISION      WARNING ],
-Text_859692,UI Text,[ STALL          WARNING ],
+Text_857542,UI Text,[ COLLISION      WARNING ],[ ATTENZIONE      COLLISIONE ]
+Text_859692,UI Text,[ STALL          WARNING ],[ ATTENZIONE          STALLO ]
 Label_857754,UI Text,HDG,
-HudBrakeLock_858050,UI Text,[ BRAKE LOCK],
+HudBrakeLock_858050,UI Text,[ BRAKE LOCK],[ FRENI]
 Label_164444,HUD unit label (g-force),G,
 Label_168976,HUD unit label (mach),M,
 Label_857238,UI Text,"HVR
@@ -68,17 +68,17 @@ Text_859476,UI Text,-[ CHECK GEAR ]-,
 Text_703132,UI Text,PULL UP!,
 visorButtonInteractable_855374,VR Interactable,Toggle Visor,
 nvgButtonInteractable_859612,VR Interactable,Toggle NVG,
-HUDTintKnob_858060,VR Interactable,HUD Tint,
+HUDTintKnob_858060,VR Interactable,HUD Tint,Colore HUD
 HUDSpeedUnitsButton_858304,VR Interactable,Airspeed Units,
 SpeedUnitsLabel_858142,UI Text,TODO,
-ClrWptButton_859478,VR Interactable,Clear Waypoint,
-MasterCautionInteractable_855702,VR Interactable,Clear Cautions,
+ClrWptButton_859478,VR Interactable,Clear Waypoint,Ripulisci Waypoint
+MasterCautionInteractable_855702,VR Interactable,Clear Cautions,Elimina Avvisi
 AltitudeModeInteractable_859776,VR Interactable,Toggle Altitude Mode,
 headingAPButton_858104,VR Interactable,Heading Hold,
 altitudeAPButton_855514,VR Interactable,Altitude Hold,
 hoverAPButton_858476,VR Interactable,Hover Mode,
 offAPButton_857466,VR Interactable,All AP Off,
-navAPButton_855348,VR Interactable,Navigation Mode,
+navAPButton_855348,VR Interactable,Navigation Mode,Modalità di Navigazione
 hudPowerInteractable_855558,VR Interactable,HUD Power,
 hmcsPowerInteractable_856320,VR Interactable,HMCS Power,
 HUDBrightKnob_855728,VR Interactable,HUD Brightness,
@@ -86,12 +86,12 @@ HUDDeclutterKnob_858778,VR Interactable,HUD Declutter,
 leftEngineSwitchInteractable_858214,VR Interactable,Left Engine,
 coverSwitchInteractable_leftEngine_858864,VR Interactable,Switch Cover,
 rightEngineSwitchInteractable_857464,VR Interactable,Right Engine,
-apuSwitchInteractable_855502,VR Interactable,Auxilliary Power,
+apuSwitchInteractable_855502,VR Interactable,Auxilliary Power,Generatore Ausiliario
 Label (1)_857692,UI Text,AV-42,
-GearInteractable_856386,VR Interactable,Landing Gear,
+GearInteractable_856386,VR Interactable,Landing Gear,Carrello
 FlapsInteractable_855734,VR Interactable,Flaps,
-HookInteractable_858430,VR Interactable,Arrestor Hook,
-CatHookInteractable_859182,VR Interactable,Launch Bar,
+HookInteractable_858430,VR Interactable,Arrestor Hook,Gancio di Arresto
+CatHookInteractable_859182,VR Interactable,Launch Bar,Barra di Lancio
 masterArmSwitchInteractable_859944,VR Interactable,Master Arm Switch,
 MasterJettisonButtonInteractable_856040,VR Interactable,Jettison,
 JettisonAllInteractable_860130,VR Interactable,JettisonAll,
