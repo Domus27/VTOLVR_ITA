@@ -1,17 +1,17 @@
 Key,Description,en,it
-ejectInteractable_911648,VR Interactable,Eject,
+ejectInteractable_911648,VR Interactable,Eject,Espulsione
 neckPTT_2582164,VR Interactable,Radio PTT,
 ButtonText_952188,UI Text,"Recenter
-seat",
+seat",Ricentra
 ButtonText_954842,UI Text,"exit
-mission",
+mission",esci
 ButtonText_915708,UI Text,"Recenter
 seat",
 ButtonText_913026,UI Text,Restart,
 ButtonText_913894,UI Text,"exit
-mission",
+mission",esci
 ButtonText_913940,UI Text,"Quick
-save",
+save",Salvataggio rapido
 ButtonText_915630,UI Text,Load,
 ButtonText_913374,UI Text,Save,
 helmVisorInteractable_913784,VR Interactable,Visor,
