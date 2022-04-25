@@ -1,12 +1,12 @@
 Key,Description,en,it
-Icon_734792,VR Interactable,Show Info,
-Text_734764,UI Text,Info,
-ButtonUp_734786,VR Interactable,Vote Up,
-ButtonDown_734790,VR Interactable,Vote Down,
-Button_734788,VR Interactable,Favorite,
-ButtonActive_734758,VR Interactable,Unfavorite,
-Button_734784,VR Interactable,Subscribe & Download,
+Icon_734792,VR Interactable,Show Info,Mostra Info
+Text_734764,UI Text,Info,Info
+ButtonUp_734786,VR Interactable,Vote Up,Vota Up
+ButtonDown_734790,VR Interactable,Vote Down,Vota Down
+Button_734788,VR Interactable,Favorite,Preferito
+ButtonActive_734758,VR Interactable,Unfavorite,Non Preferito
+Button_734784,VR Interactable,Subscribe & Download,Sottoscrivi e Scarica
 Text_734748,UI Text,ADD,
-ButtonActive_734798,VR Interactable,Remove Subscription,
-Text (1)_734794,UI Text,REMOVE,
-ButtonPlay_734746,VR Interactable,Play,
+ButtonActive_734798,VR Interactable,Remove Subscription,Rimuovi Sottoscrizione
+Text (1)_734794,UI Text,REMOVE,RIMUOVI
+ButtonPlay_734746,VR Interactable,Play,Gioca
