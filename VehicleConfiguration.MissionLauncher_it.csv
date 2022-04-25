@@ -1,10 +1,10 @@
 Key,Description,en,it
-pageTitle_757220,UI Text,Ready to fly?,
-launchMissionButton_764254,VR Interactable,Launch Mission,
-Text_761930,UI Text,Launch,
-denyTitle_761654,UI Text,Launch Denied,
-envName_763252,UI Text,Morning,
-NextENVButton_763744,VR Interactable,Next Environment,
-PrevENVButton_765098,VR Interactable,Prev Environment,
-quitButton_763700,VR Interactable,Return to Main,
-Text_761850,UI Text,Back,
+pageTitle_757220,UI Text,Ready to fly?,Pronto a volare?
+launchMissionButton_764254,VR Interactable,Launch Mission,Avvia Missione
+Text_761930,UI Text,Launch,Avvia
+denyTitle_761654,UI Text,Launch Denied,Avvio Negato
+envName_763252,UI Text,Morning,Mattino
+NextENVButton_763744,VR Interactable,Next Environment,Ambientazione successiva
+PrevENVButton_765098,VR Interactable,Prev Environment,Ambientazione precedente
+quitButton_763700,VR Interactable,Return to Main,Ritorna al Menu
+Text_761850,UI Text,Back,Indietro
