@@ -50,8 +50,8 @@ SaveToDiskText_857640,VR Interactable,Save Flight Log,Salva il registro di Volo
 completionTimeLabel_-10687514,UI Text,Completion Time:,Tempo di Completamento
 releaseLabel_859238,UI Text,RELEASE,RILASCIA
 AirspeedLabel_857044,UI Text,SPEED,VEOLOCITA'
-Label_858112,UI Text,TILT,
-Label_856174,UI Text,HULL,
+Label_858112,UI Text,TILT,INCLINAZIONE
+Label_856174,UI Text,HULL,SCAFO
 VertVelLabel_857254,UI Text,VERT,
 ASLText_858014,UI Text,ASL,
 RDRAltText_858872,UI Text,RDR,
@@ -65,7 +65,7 @@ Label_857238,UI Text,"HVR
 ALT",
 Label_857834,UI Text,BRAKE,FRENI
 Text_859476,UI Text,-[ CHECK GEAR ]-,[CONTROLLA CARRELLO ]
-Text_703132,UI Text,PULL UP!,
+Text_703132,UI Text,PULL UP!,CABRA!
 visorButtonInteractable_855374,VR Interactable,Toggle Visor,
 nvgButtonInteractable_859612,VR Interactable,Toggle NVG,
 HUDTintKnob_858060,VR Interactable,HUD Tint,Colore HUD
@@ -74,8 +74,8 @@ SpeedUnitsLabel_858142,UI Text,TODO,
 ClrWptButton_859478,VR Interactable,Clear Waypoint,Ripulisci Waypoint
 MasterCautionInteractable_855702,VR Interactable,Clear Cautions,Elimina Avvisi
 AltitudeModeInteractable_859776,VR Interactable,Toggle Altitude Mode,
-headingAPButton_858104,VR Interactable,Heading Hold,
-altitudeAPButton_855514,VR Interactable,Altitude Hold,
+headingAPButton_858104,VR Interactable,Heading Hold,Mantieni Prua
+altitudeAPButton_855514,VR Interactable,Altitude Hold,Mantieni Quota
 hoverAPButton_858476,VR Interactable,Hover Mode,
 offAPButton_857466,VR Interactable,All AP Off,
 navAPButton_855348,VR Interactable,Navigation Mode,Modalità di Navigazione
@@ -83,9 +83,9 @@ hudPowerInteractable_855558,VR Interactable,HUD Power,
 hmcsPowerInteractable_856320,VR Interactable,HMCS Power,
 HUDBrightKnob_855728,VR Interactable,HUD Brightness,
 HUDDeclutterKnob_858778,VR Interactable,HUD Declutter,
-leftEngineSwitchInteractable_858214,VR Interactable,Left Engine,
-coverSwitchInteractable_leftEngine_858864,VR Interactable,Switch Cover,
-rightEngineSwitchInteractable_857464,VR Interactable,Right Engine,
+leftEngineSwitchInteractable_858214,VR Interactable,Left Engine,Motore Sinistro
+coverSwitchInteractable_leftEngine_858864,VR Interactable,Switch Cover,Cover Interrutore
+rightEngineSwitchInteractable_857464,VR Interactable,Right Engine,Motore Destro
 apuSwitchInteractable_855502,VR Interactable,Auxilliary Power,Generatore Ausiliario
 Label (1)_857692,UI Text,AV-42,
 GearInteractable_856386,VR Interactable,Landing Gear,Carrello
@@ -104,7 +104,7 @@ QuickFlyButton_857886,VR Interactable,QuickFly,
 Text_856940,UI Text,"VR MFCD
 1.0
 ",
-SaveToDiskText_857186,UI Text,Save to Disk,
+SaveToDiskText_857186,UI Text,Save to Disk,Salva su Disco
 Title_856292,UI Text,"Spectator
 Camera",Camera Spettatore
 AutoFOVText_857446,UI Text,AutoFOV,
@@ -205,9 +205,9 @@ fuelButton_855474,VR Interactable,Fuel,Carburante
 mainBattSwitchInteractable_858600,VR Interactable,Main Battery,Batteria Principale
 fuelDumpSwitchInteractable_197570,VR Interactable,Fuel Dump Switch,
 RampInteractable_858370,VR Interactable,Side Doors,Porte Laterali
-BrakeLockInteractable_859740,VR Interactable,Brake Locks,
+BrakeLockInteractable_859740,VR Interactable,Brake Locks,Blocco Freni
 MicPowerInteractable_855850,VR Interactable,Microphone,Microfono
-CommsVolumeKnob_858450,VR Interactable,Comm Radio Volume,
+CommsVolumeKnob_858450,VR Interactable,Comm Radio Volume,Volume Radio Comm
 Text_98822,UI Text,"GAME WINDOW
 NOT IN FOCUS",FINESTRA DI GIOCO NON IN PRIMO PIANO
 ChaffInteractable_859410,VR Interactable,Toggle Chaff,
@@ -218,11 +218,11 @@ YawSASInteractable_859920,VR Interactable,Toggle Yaw Assist,
 RollSASInteractable_859788,VR Interactable,Toggle Roll Assist,
 PitchAutoTrimInteractable_859614,VR Interactable,Toggle Pitch Trim,
 GLimitSwitchInteractable_860152,VR Interactable,Toggle G-Limiter,
-FuelPort_860018,VR Interactable,Fuel Port,
+FuelPort_860018,VR Interactable,Fuel Port,Porta Carburante
 RCSModeInteractable_858010,VR Interactable,RCS Mode,
-RadioVolumeKnob_859248,VR Interactable,Radio Volume,
+RadioVolumeKnob_859248,VR Interactable,Radio Volume,Volume Radio
 PrevButton_857278,VR Interactable,Prev Song,
 NextButton_858006,VR Interactable,Next Song,
 radioPlayPauseInteractable_858616,VR Interactable,Play/Pause,
-RWRModeInteractable_856254,VR Interactable,RWR Mode,
-CamcorderObj_105218,VR Interactable,Move Camera,
+RWRModeInteractable_856254,VR Interactable,RWR Mode,Modalità RWR
+CamcorderObj_105218,VR Interactable,Move Camera,Muovi Camera
