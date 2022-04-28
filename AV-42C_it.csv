@@ -63,8 +63,8 @@ Label_164444,HUD unit label (g-force),G,
 Label_168976,HUD unit label (mach),M,
 Label_857238,UI Text,"HVR
 ALT",
-Label_857834,UI Text,BRAKE,
-Text_859476,UI Text,-[ CHECK GEAR ]-,
+Label_857834,UI Text,BRAKE,FRENI
+Text_859476,UI Text,-[ CHECK GEAR ]-,[CONTROLLA CARRELLO ]
 Text_703132,UI Text,PULL UP!,
 visorButtonInteractable_855374,VR Interactable,Toggle Visor,
 nvgButtonInteractable_859612,VR Interactable,Toggle NVG,
@@ -106,7 +106,7 @@ Text_856940,UI Text,"VR MFCD
 ",
 SaveToDiskText_857186,UI Text,Save to Disk,
 Title_856292,UI Text,"Spectator
-Camera",
+Camera",Camera Spettatore
 AutoFOVText_857446,UI Text,AutoFOV,
 Title_859956,UI Text,HARDPOINTS,
 JettisonText_859418,UI Text,ARMED,
@@ -115,32 +115,32 @@ BackText_856938,UI Text,BACK,
 Title_859674,UI Text,ARAD,
 offTxt_858396,UI Text,RWR OFF,
 hudModeText_855534,UI Text,DECL,
-Text_856460,UI Text,GAME MENU,
+Text_856460,UI Text,GAME MENU,MENU DI GIOCO
 Text_856942,UI Text,"Sit comfortably
 and press
 [menu]
-to recenter",
-saveText_858168,UI Text,SAVE,
+to recenter",Siediti comodo e premi [menu] per ricentrare
+saveText_858168,UI Text,SAVE,SALVA
 availableLabel_856046,UI Text,"SAVES
-AVAILABLE:",
+AVAILABLE:",SALVATAGGI
 NoQsText_856498,UI Text,"QUICKSAVE
-NOT AVAILABLE",
-lastSaveLabel_859496,UI Text,Last Save:,
-loadText_858842,UI Text,LOAD,
-text_855302,UI Text,SAVED,
-Quicksave Title_123840,UI Text,Quicksave,
+NOT AVAILABLE",SALVATAGGIO RAPIDO
+lastSaveLabel_859496,UI Text,Last Save:,Ultimo Salvataggio
+loadText_858842,UI Text,LOAD,CARICA
+text_855302,UI Text,SAVED,SALVATO
+Quicksave Title_123840,UI Text,Quicksave,Salvatggio Rapido
 TgtsTitle_857670,UI Text,GPS TARGETS,
 GroupsTitle_860122,UI Text,GROUPS,
 DelTgt_857782,UI Text,"DELETE
-TARGET",
+TARGET",CANCELLA
 DelGrp_856478,UI Text,"DELETE
-GROUP",
+GROUP",CANCELLA
 NewGrp_859040,UI Text,"NEW
-GROUP",
-pathLabel_857952,UI Text,PATH,
+GROUP",NUOVO
+pathLabel_857952,UI Text,PATH,PERCORSO
 NoSignalText_859948,UI Text,NO SIGNAL,
 Text_857566,UI Text,AREA,
-Text_856980,UI Text,POINT,
+Text_856980,UI Text,POINT,PUNTO
 Text_856590,UI Text,IFF:FRIEND,
 Text_859178,UI Text,IFF:FOE,
 HeadModeText_855284,UI Text,"USE HELMET VISOR/HMCS
@@ -155,7 +155,7 @@ ReleaseRateTitle_456222,UI Text,RELEASE RATE,
 releaseModeTxt_455244,UI Text,RELEASE MODE,
 eqNameText_930458,UI Text,VEHICLE OPTIONS,
 AltModeLabel_953220,UI Text,UNITS,
-unitOptsText_702428,UI Text,FUEL,
+unitOptsText_702428,UI Text,FUEL,CARBURANTE
 unitOptsText_702142,UI Text,ALT WARN,
 JoyModeText_952514,UI Text,JOY SENS,
 eqNameText_701656,UI Text,UNIT OPTIONS,
@@ -200,16 +200,16 @@ N
 F
 O",
 powButtonMMFDRight_855584,VR Interactable,Power (MMFD Right),
-infoButton_859450,VR Interactable,Fuel Info,
-fuelButton_855474,VR Interactable,Fuel,
-mainBattSwitchInteractable_858600,VR Interactable,Main Battery,
+infoButton_859450,VR Interactable,Fuel Info,Info Carburante
+fuelButton_855474,VR Interactable,Fuel,Carburante
+mainBattSwitchInteractable_858600,VR Interactable,Main Battery,Batteria Principale
 fuelDumpSwitchInteractable_197570,VR Interactable,Fuel Dump Switch,
 RampInteractable_858370,VR Interactable,Side Doors,
 BrakeLockInteractable_859740,VR Interactable,Brake Locks,
-MicPowerInteractable_855850,VR Interactable,Microphone,
+MicPowerInteractable_855850,VR Interactable,Microphone,Microfono
 CommsVolumeKnob_858450,VR Interactable,Comm Radio Volume,
 Text_98822,UI Text,"GAME WINDOW
-NOT IN FOCUS",
+NOT IN FOCUS",FINESTRA DI GIOCO NON IN PRIMO PIANO
 ChaffInteractable_859410,VR Interactable,Toggle Chaff,
 FlareInteractable_856806,VR Interactable,Toggle Flares,
 AssistMasterInteractable_860160,VR Interactable,Toggle Flight Assist,
