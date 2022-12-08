@@ -52,44 +52,44 @@ releaseLabel_859238,UI Text,RELEASE,RILASCIA
 AirspeedLabel_857044,UI Text,SPEED,VEOLOCITA'
 Label_858112,UI Text,TILT,INCLINAZIONE
 Label_856174,UI Text,HULL,SCAFO
-VertVelLabel_857254,UI Text,VERT,
-ASLText_858014,UI Text,ASL,
-RDRAltText_858872,UI Text,RDR,
+VertVelLabel_857254,UI Text,VERT,VERT
+ASLText_858014,UI Text,ASL,ASL
+RDRAltText_858872,UI Text,RDR,RDR
 Text_857542,UI Text,[ COLLISION      WARNING ],[ ATTENZIONE      COLLISIONE ]
 Text_859692,UI Text,[ STALL          WARNING ],[ ATTENZIONE          STALLO ]
-Label_857754,UI Text,HDG,
+Label_857754,UI Text,HDG,HDG
 HudBrakeLock_858050,UI Text,[ BRAKE LOCK],[ FRENI]
-Label_164444,HUD unit label (g-force),G,
-Label_168976,HUD unit label (mach),M,
+Label_164444,HUD unit label (g-force),G,G
+Label_168976,HUD unit label (mach),M,M
 Label_857238,UI Text,"HVR
-ALT",
+ALT",HVR
 Label_857834,UI Text,BRAKE,FRENI
 Text_859476,UI Text,-[ CHECK GEAR ]-,[CONTROLLA CARRELLO ]
 Text_703132,UI Text,PULL UP!,CABRA!
-visorButtonInteractable_855374,VR Interactable,Toggle Visor,
-nvgButtonInteractable_859612,VR Interactable,Toggle NVG,
+visorButtonInteractable_855374,VR Interactable,Toggle Visor,Alterna Visore
+nvgButtonInteractable_859612,VR Interactable,Toggle NVG,Alterna NVG
 HUDTintKnob_858060,VR Interactable,HUD Tint,Colore HUD
-HUDSpeedUnitsButton_858304,VR Interactable,Airspeed Units,
-SpeedUnitsLabel_858142,UI Text,TODO,
+HUDSpeedUnitsButton_858304,VR Interactable,Airspeed Units,Unità 
+SpeedUnitsLabel_858142,UI Text,TODO,TODO
 ClrWptButton_859478,VR Interactable,Clear Waypoint,Ripulisci Waypoint
 MasterCautionInteractable_855702,VR Interactable,Clear Cautions,Elimina Avvisi
-AltitudeModeInteractable_859776,VR Interactable,Toggle Altitude Mode,
+AltitudeModeInteractable_859776,VR Interactable,Toggle Altitude Mode,Alterna mod. altitudine
 headingAPButton_858104,VR Interactable,Heading Hold,Mantieni Prua
 altitudeAPButton_855514,VR Interactable,Altitude Hold,Mantieni Quota
 hoverAPButton_858476,VR Interactable,Hover Mode,
-offAPButton_857466,VR Interactable,All AP Off,
+offAPButton_857466,VR Interactable,All AP Off,Spegni AP
 navAPButton_855348,VR Interactable,Navigation Mode,Modalità di Navigazione
-hudPowerInteractable_855558,VR Interactable,HUD Power,
-hmcsPowerInteractable_856320,VR Interactable,HMCS Power,
-HUDBrightKnob_855728,VR Interactable,HUD Brightness,
+hudPowerInteractable_855558,VR Interactable,HUD Power,Alimentazione HUD
+hmcsPowerInteractable_856320,VR Interactable,HMCS Power,Alimentazione HMCS
+HUDBrightKnob_855728,VR Interactable,HUD Brightness,Luminosità HUD
 HUDDeclutterKnob_858778,VR Interactable,HUD Declutter,
 leftEngineSwitchInteractable_858214,VR Interactable,Left Engine,Motore Sinistro
 coverSwitchInteractable_leftEngine_858864,VR Interactable,Switch Cover,Cover Interrutore
 rightEngineSwitchInteractable_857464,VR Interactable,Right Engine,Motore Destro
 apuSwitchInteractable_855502,VR Interactable,Auxilliary Power,Generatore Ausiliario
-Label (1)_857692,UI Text,AV-42,
+Label (1)_857692,UI Text,AV-42,AV-42
 GearInteractable_856386,VR Interactable,Landing Gear,Carrello
-FlapsInteractable_855734,VR Interactable,Flaps,
+FlapsInteractable_855734,VR Interactable,Flaps,Flaps
 HookInteractable_858430,VR Interactable,Arrestor Hook,Gancio di Arresto
 CatHookInteractable_859182,VR Interactable,Launch Bar,Barra di Lancio
 masterArmSwitchInteractable_859944,VR Interactable,Master Arm Switch,
@@ -109,10 +109,10 @@ Title_856292,UI Text,"Spectator
 Camera",Camera Spettatore
 AutoFOVText_857446,UI Text,AutoFOV,
 Title_859956,UI Text,HARDPOINTS,
-JettisonText_859418,UI Text,ARMED,
+JettisonText_859418,UI Text,ARMED,ARMATO
 JettisonText_857292,UI Text,JETTISON,
-BackText_856938,UI Text,BACK,
-Title_859674,UI Text,ARAD,
+BackText_856938,UI Text,BACK,INDIETRO
+Title_859674,UI Text,ARAD,ARAD
 offTxt_858396,UI Text,RWR OFF,
 hudModeText_855534,UI Text,DECL,
 Text_856460,UI Text,GAME MENU,MENU DI GIOCO
@@ -139,10 +139,10 @@ NewGrp_859040,UI Text,"NEW
 GROUP",NUOVO
 pathLabel_857952,UI Text,PATH,PERCORSO
 NoSignalText_859948,UI Text,NO SIGNAL,NESSUN SEGNALE
-Text_857566,UI Text,AREA,
+Text_857566,UI Text,AREA,AREA
 Text_856980,UI Text,POINT,PUNTO
-Text_856590,UI Text,IFF:FRIEND,
-Text_859178,UI Text,IFF:FOE,
+Text_856590,UI Text,IFF:FRIEND,IFF:ALLEATO
+Text_859178,UI Text,IFF:FOE,IFF:NEMICO
 HeadModeText_855284,UI Text,"USE HELMET VISOR/HMCS
 
 AUGMENTED VIEW ENABLED",USA VISORE ELMETTO
