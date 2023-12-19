@@ -1,258 +1,289 @@
 Key,Description,en,it
-canopyFrame.003_954194,VR Interactable,Mirror,
-joyInteractable_953200,VR Interactable,Joystick,
-joyAdjustInteractable_955138,VR Interactable,Adjust Joystick,
-AdjLeftButton_952542,VR Interactable,Adjust Left,
-AdjRightButton_954950,VR Interactable,Adjust Right,
-AdjFwdButton_954070,VR Interactable,Adjust Forward,
-AdjBackButton_954494,VR Interactable,Adjust Back,
-AdjUpButton_956738,VR Interactable,Adjust Up,
-AdjDownButton_955744,VR Interactable,Adjust Down,
-ToggleAdjustJoyInteractable_952782,VR Interactable,Toggle Auto Adjust,
-Text_955910,UI Text,AUTO,
-throttleInteractable_956892,VR Interactable,Throttle,
-ejectInteractable_952116,VR Interactable,Eject,
+canopyFrame.003_954194,VR Interactable,Mirror,Specchio
+joyInteractable_953200,VR Interactable,Joystick,Stick
+joyAdjustInteractable_955138,VR Interactable,Adjust Joystick,Aggiusta Stick
+AdjLeftButton_952542,VR Interactable,Adjust Left,Aggiusta Sinistra
+AdjRightButton_954950,VR Interactable,Adjust Right,Aggiusta Destra
+AdjFwdButton_954070,VR Interactable,Adjust Forward,Aggiusta Avanti
+AdjBackButton_954494,VR Interactable,Adjust Back,Aggiusta Indietro
+AdjUpButton_956738,VR Interactable,Adjust Up,Aggiusta Su
+AdjDownButton_955744,VR Interactable,Adjust Down,Aggiusta Giù
+ToggleAdjustJoyInteractable_952782,VR Interactable,Toggle Auto Adjust,Attiva/Disattiva Auto Aggiusta
+Text_955910,UI Text,AUTO,AUTO
+throttleInteractable_956892,VR Interactable,Throttle,Manetta
+ejectInteractable_952116,VR Interactable,Eject,Eiezione
 ButtonText_952188,UI Text,"Recenter
-seat",
-ButtonText_954848,UI Text,Restart,
+seat","Centra
+sedile"
+ButtonText_954848,UI Text,Restart,Riavvio
 ButtonText_954842,UI Text,"exit
-mission",
+mission","esci dalla
+missione"
 ButtonText_955448,UI Text,"Quick
-save",
-ButtonText_953872,UI Text,Load,
-ButtonText_955618,UI Text,Save,
-helmVisorInteractable_955814,VR Interactable,Visor,
-helmNVGInteractable_955816,VR Interactable,NVG,
-PendingText_955728,UI Text,in progress...,
-CompleteText_953308,UI Text,COMPLETE,
+save","Salvataggio 
+rapido"
+ButtonText_953872,UI Text,Load,Carica
+ButtonText_955618,UI Text,Save,Salva
+helmVisorInteractable_955814,VR Interactable,Visor,Visore
+helmNVGInteractable_955816,VR Interactable,NVG,Visore Notturno
+PendingText_955728,UI Text,in progress...,In progresso...
+CompleteText_953308,UI Text,COMPLETE,COMPLETATO
 MissionText_954156,UI Text,"MISSION
-",
-FailedText_955730,UI Text,FAILED,
-Handle_115524,VR Interactable,Scroll,
-Text_952430,UI Text,Restart Mission,
-ReturnButton_955218,VR Interactable,Return to Main,
-Text_952202,UI Text,Finish Mission,
-ToggleLogButton_953462,VR Interactable,Toggle Flight Log,
-Text_956176,UI Text,Show/Hide Flight Log,
-ContinueFlightButton_954168,VR Interactable,Continue Flight,
-Text_956284,UI Text,Flight log,
-UpIcon_954544,VR Interactable,Scroll Up,
-DnIcon_955334,VR Interactable,Scroll Down,
-BottomIcon_954644,VR Interactable,To Bottom,
-SaveToDiskText_952718,VR Interactable,Save Flight Log,
-completionTimeLabel_1297772,UI Text,Completion Time:,
-visorButtonInteractable_955012,VR Interactable,Toggle Visor,
-nvgButtonInteractable_954948,VR Interactable,Toggle NVG,
-HUDTintKnob_954844,VR Interactable,HUD Tint,
-MasterCautionInteractable_955266,VR Interactable,Clear Cautions,
-AltitudeModeInteractable_954586,VR Interactable,Toggle Altitude Mode,
-ClrWptButton_956888,VR Interactable,Clear Waypoint,
-headingAPButton_956800,VR Interactable,Heading Hold,
-altitudeAPButton_952938,VR Interactable,Altitude Hold,
-speedAPButton_-3021126,VR Interactable,Airspeed Hold,
-offAPButton_953862,VR Interactable,All AP Off,
-navAPButton_953656,VR Interactable,Navigation Mode,
-hudPowerInteractable_952146,VR Interactable,HUD Power,
-hmcsPowerInteractable_952122,VR Interactable,HMCS Power,
-HUDBrightKnob_952800,VR Interactable,HUD Brightness,
-DeclutterKnob_535224,VR Interactable,HUD Declutter,
-MFDBrightnessKnob_955120,VR Interactable,MFD Brightness,
-mfdSwapButton_-23972,VR Interactable,Swap MFDs,
-leftEngineSwitchInteractable_954450,VR Interactable,Left Engine,
-coverSwitchInteractable_leftEngine_955432,VR Interactable,Switch Cover (Left Engine),
-rightEngineSwitchInteractable_954616,VR Interactable,Right Engine,
-coverSwitchInteractable_rightEngine_954968,VR Interactable,Switch Cover (Right Engine),
-apuSwitchInteractable_954938,VR Interactable,Auxilliary Power,
-coverSwitchInteractable_apuSwitch_957054,VR Interactable,Switch Cover (APU),
-mainBattSwitchInteractable_956298,VR Interactable,Main Battery,
-CanopyInteractable_955182,VR Interactable,Canopy,
-GearInteractable_952278,VR Interactable,Landing Gear,
-FlapsInteractable_954972,VR Interactable,Flaps,
-HookInteractable_952960,VR Interactable,Arrestor Hook,
-CatHookInteractable_953160,VR Interactable,Launch Bar,
-MasterJettisonButtonInteractable_953496,VR Interactable,Jettison,
-coverSwitchInteractable_jettisonButton_957040,VR Interactable,Switch Cover (Jettison),
-JettisonAllInteractable_957116,VR Interactable,Jettison All,
-JettisonEmptyInteractable_953786,VR Interactable,Jettison Empty,
-ClearJettisonInteractable_955908,VR Interactable,Clear Jettison Marks,
-JettTanksInteractable_956154,VR Interactable,Jettison Ext Tanks,
-Label (1)_956422,UI Text,QUICK START,
-QuickStartInteractable_954058,VR Interactable,Quickstart Engines,
-Label (1)_954266,UI Text,QUICK FLY,
-QuickFlyButton_956882,VR Interactable,QuickFly,
-raiseSeatInter_952934,VR Interactable,Raise Seat,
-lowerSeatInter_956538,VR Interactable,Lower Seat,
+",MISSIONE
+FailedText_955730,UI Text,FAILED,FALLITA
+Handle_115524,VR Interactable,Scroll,Scorri
+Text_952430,UI Text,Restart Mission,Riavvia Missione
+ReturnButton_955218,VR Interactable,Return to Main,Ritorna al Menu
+Text_952202,UI Text,Finish Mission,Finisci Missione
+ToggleLogButton_953462,VR Interactable,Toggle Flight Log,Attiva/Disattiva Registro di Volo
+Text_956176,UI Text,Show/Hide Flight Log,Mostra/Nascondi Registro di Volo
+ContinueFlightButton_954168,VR Interactable,Continue Flight,Continua Volo
+Text_956284,UI Text,Flight log,Registro Volo
+UpIcon_954544,VR Interactable,Scroll Up,Scorri Su
+DnIcon_955334,VR Interactable,Scroll Down,Scorri Giù
+BottomIcon_954644,VR Interactable,To Bottom,In Fondo
+SaveToDiskText_952718,VR Interactable,Save Flight Log,Salva Registro Volo
+completionTimeLabel_1297772,UI Text,Completion Time:,Tempo Completamento:
+visorButtonInteractable_955012,VR Interactable,Toggle Visor,Attiva/Disattiva Visore
+nvgButtonInteractable_954948,VR Interactable,Toggle NVG,Attiva/Disattiva Visore Notturno
+HUDTintKnob_954844,VR Interactable,HUD Tint,Tinta HUD
+MasterCautionInteractable_955266,VR Interactable,Clear Cautions,Rimuovi Allarmi
+AltitudeModeInteractable_954586,VR Interactable,Toggle Altitude Mode,Imposta Modalità Altitudine
+ClrWptButton_956888,VR Interactable,Clear Waypoint,Rimuovi Waypoint
+headingAPButton_956800,VR Interactable,Heading Hold,Mantenimento direzione
+altitudeAPButton_952938,VR Interactable,Altitude Hold,"Mantenimeno altitudine "
+speedAPButton_-3021126,VR Interactable,Airspeed Hold,Mantenimento velocità
+offAPButton_953862,VR Interactable,All AP Off,Tutti AP Off
+navAPButton_953656,VR Interactable,Navigation Mode,Modalità Navigazione
+hudPowerInteractable_952146,VR Interactable,HUD Power,Interruttore HUD
+hmcsPowerInteractable_952122,VR Interactable,HMCS Power,Interruttore HMCS
+HUDBrightKnob_952800,VR Interactable,HUD Brightness,Luminosità HUD
+DeclutterKnob_535224,VR Interactable,HUD Declutter,Declutter HUD
+MFDBrightnessKnob_955120,VR Interactable,MFD Brightness,Luminosità MFD
+mfdSwapButton_-23972,VR Interactable,Swap MFDs,Scambia MFDs
+leftEngineSwitchInteractable_954450,VR Interactable,Left Engine,Motore Sinistro
+coverSwitchInteractable_leftEngine_955432,VR Interactable,Switch Cover (Left Engine),Muovi Cover (Motore Sinistro)
+rightEngineSwitchInteractable_954616,VR Interactable,Right Engine,Motore Destro
+coverSwitchInteractable_rightEngine_954968,VR Interactable,Switch Cover (Right Engine),Muovi Cover (Motore Destro)
+apuSwitchInteractable_954938,VR Interactable,Auxilliary Power,APU
+coverSwitchInteractable_apuSwitch_957054,VR Interactable,Switch Cover (APU),Muovi Cover (APU)
+mainBattSwitchInteractable_956298,VR Interactable,Main Battery,Batteria Principale
+CanopyInteractable_955182,VR Interactable,Canopy,Canopy
+GearInteractable_952278,VR Interactable,Landing Gear,Carrello d'Atterraggio
+FlapsInteractable_954972,VR Interactable,Flaps,Flaps
+HookInteractable_952960,VR Interactable,Arrestor Hook,Cavo d'Arresto
+CatHookInteractable_953160,VR Interactable,Launch Bar,Barra di Lancio
+MasterJettisonButtonInteractable_953496,VR Interactable,Jettison,Sgancio
+coverSwitchInteractable_jettisonButton_957040,VR Interactable,Switch Cover (Jettison),Muovi Cover (Sgancio)
+JettisonAllInteractable_957116,VR Interactable,Jettison All,Sgancia Tutto
+JettisonEmptyInteractable_953786,VR Interactable,Jettison Empty,Sgancia Vuoto
+ClearJettisonInteractable_955908,VR Interactable,Clear Jettison Marks,Pulisci Selezione Sgancio
+JettTanksInteractable_956154,VR Interactable,Jettison Ext Tanks,Sgancia Taniche
+Label (1)_956422,UI Text,QUICK START,AVVIO RAPIDO
+QuickStartInteractable_954058,VR Interactable,Quickstart Engines,Avvio Rapido Motori
+Label (1)_954266,UI Text,QUICK FLY,VOLO RAPIDO
+QuickFlyButton_956882,VR Interactable,QuickFly,Volo Rapido
+raiseSeatInter_952934,VR Interactable,Raise Seat,Alza Sedile
+lowerSeatInter_956538,VR Interactable,Lower Seat,Abbassa Sedile
 RWRText_957050,UI Text,"R
 W
-R",
-Text_956238,UI Text,VRMMFD v1.6,
-Text (1)_955806,UI Text,FUEL,
-Text_955420,Internal Fuel,INTERNAL,
-Text_955022,External Fuel,EXTERNAL,
-fuelDrainLabel_955210,UI Text,FUEL DRAIN,
-estTimeLabel_952850,UI Text,EST TIME,
-estDistLabel_956560,UI Text,EST DISTANCE,
-twrLabel_952686,UI Text,MAX TWR,
-RWRButton_952182,VR Interactable,RWR,
-powButtonMMFDLeft_953178,VR Interactable,Power (MMFD Left),
+R","R
+W
+R"
+Text_956238,UI Text,VRMMFD v1.6,VRMMFD v1.6
+Text (1)_955806,UI Text,FUEL,BENZINA
+Text_955420,Internal Fuel,INTERNAL,INTERNO
+Text_955022,External Fuel,EXTERNAL,ESTERNO
+fuelDrainLabel_955210,UI Text,FUEL DRAIN,CONSUMO BENZINA
+estTimeLabel_952850,UI Text,EST TIME,TEMPO STIMATO
+estDistLabel_956560,UI Text,EST DISTANCE,DISTANZA STIMATA
+twrLabel_952686,UI Text,MAX TWR,MAX TWR
+RWRButton_952182,VR Interactable,RWR,RWR
+powButtonMMFDLeft_953178,VR Interactable,Power (MMFD Left),Interruttore (MMFD Sinistro)
 FuelText_952778,UI Text,"F
 U
 E
-L",
+L","B
+E
+N
+Z"
 InfoText_952704,UI Text,"I
 N
 F
-O",
-powButtonMMFDRight_955652,VR Interactable,Power (MMFD Right),
-fuelButton_955472,VR Interactable,Fuel,
-fuelDrainButton_953542,VR Interactable,Info,
+O","I
+N
+F
+O"
+powButtonMMFDRight_955652,VR Interactable,Power (MMFD Right),Interruttore (MMFD Destro)
+fuelButton_955472,VR Interactable,Fuel,Benzina
+fuelDrainButton_953542,VR Interactable,Info,Info
 Text_953094,UI Text,"VR MFCD
 1.0
-",
-SaveToDiskText_953598,UI Text,Save to Disk,
-TgtsTitle_955166,UI Text,GPS TARGETS,
-GroupsTitle_954186,UI Text,GROUPS,
+","VR MFCD
+1.0"
+SaveToDiskText_953598,UI Text,Save to Disk,Salva su Disco
+TgtsTitle_955166,UI Text,GPS TARGETS,BERSAGLI GPS
+GroupsTitle_954186,UI Text,GROUPS,GRUPPI
 DelTgt_955584,UI Text,"DELETE
-TARGET",
+TARGET","ELIMINA
+BERSAGLIO"
 DelGrp_956268,UI Text,"DELETE
-GROUP",
+GROUP",ELIMINA GRUPPO
 NewGrp_953456,UI Text,"NEW
-GROUP",
-pathLabel_955452,UI Text,PATH,
+GROUP","NUOVO 
+GRUPPO"
+pathLabel_955452,UI Text,PATH,PATH
 Title_953670,UI Text,"Spectator
-Camera",
-AutoFOVText_952996,UI Text,AutoFOV,
-FOVText ButtonLabel_954546,UI Text,SCAN ANGLE,
+Camera","Camera
+Spettarore"
+AutoFOVText_952996,UI Text,AutoFOV,AutoFov
+FOVText ButtonLabel_954546,UI Text,SCAN ANGLE,Angolo Scan
 title_953028,UI Text,"LOCK
 B
 R
-A",
-OffObj_956796,UI Text,RADAR OFF,
-FOVText_955746,UI Text,BORESIGHT,
-Title_952256,UI Text,ARAD,
-offTxt_952304,UI Text,RWR OFF,
-hudModeText_956624,UI Text,DECL,
-Text_956014,UI Text,GAME MENU,
+A","LOCK
+B
+R
+A"
+OffObj_956796,UI Text,RADAR OFF,RADAR SPENTO
+FOVText_955746,UI Text,BORESIGHT,BORESIGHT
+Title_952256,UI Text,ARAD,ARAD
+offTxt_952304,UI Text,RWR OFF,RWR SPENTO
+hudModeText_956624,UI Text,DECL,DECL
+Text_956014,UI Text,GAME MENU,MENU GIOCO
 Text_957026,UI Text,"Sit comfortably
 and press
 [menu]
-to recenter",
-saveText_952280,UI Text,SAVE,
+to recenter","Siediti comodo
+e premi
+[menu]
+per centrare"
+saveText_952280,UI Text,SAVE,SALVA
 availableLabel_956208,UI Text,"SAVES
-AVAILABLE:",
+AVAILABLE:","SALVATAGGI
+DISPONIBILI:"
 NoQsText_955496,UI Text,"QUICKSAVE
-NOT AVAILABLE",
-lastSaveLabel_954396,UI Text,Last Save:,
-loadText_957016,UI Text,LOAD,
-text_956760,UI Text,SAVED,
-Quicksave Title_121936,UI Text,Quicksave,
-titleText_620198,UI Text,FLARES,
-titleText_618466,UI Text,CHAFF,
-eqNameText_930458,UI Text,COUNTERMEASURE SYSTEM,
-BingoAdjustTitle_-439040,UI Text,RELEASE RATE,
-txt_929168,UI Text,RELEASE MODE,
-NoSignalText_955176,UI Text,NO SIGNAL,
-Text_952186,UI Text,AREA,
-Text_954224,UI Text,POINT,
-Text_954786,UI Text,IFF:FRIEND,
-Text_952462,UI Text,IFF:FOE,
+NOT AVAILABLE","SALVATAGGIO RAPIDO
+NON DISPONIBILE"
+lastSaveLabel_954396,UI Text,Last Save:,Ultimo Salvataggio:
+loadText_957016,UI Text,LOAD,CARICA
+text_956760,UI Text,SAVED,SALVATO
+Quicksave Title_121936,UI Text,Quicksave,Salvataggio rapido
+titleText_620198,UI Text,FLARES,FLARES
+titleText_618466,UI Text,CHAFF,CHAFF
+eqNameText_930458,UI Text,COUNTERMEASURE SYSTEM,SISTEMA CONTROMISURE
+BingoAdjustTitle_-439040,UI Text,RELEASE RATE,RATEO RILASCIO
+txt_929168,UI Text,RELEASE MODE,MODALITA' RILASCIO
+NoSignalText_955176,UI Text,NO SIGNAL,NESSUN SEGNALE
+Text_952186,UI Text,AREA,AREA
+Text_954224,UI Text,POINT,PUNTO
+Text_954786,UI Text,IFF:FRIEND,IFF: ALLEATO
+Text_952462,UI Text,IFF:FOE,IFF: NEMICO
 HeadModeText_956034,UI Text,"USE HELMET VISOR/HMCS
 
-AUGMENTED VIEW ENABLED",
-gimbalLimit_956102,UI Text,GIMBAL LIMIT,
-hmdViewStatus_953932,UI Text,HMD,
-eqNameText_619628,UI Text,VEHICLE OPTIONS,
+AUGMENTED VIEW ENABLED","USA IL VISORE DELL'ELMETTO/HMCS
+
+VISIONE AR ABILITATA"
+gimbalLimit_956102,UI Text,GIMBAL LIMIT,LIMITE GIMBAL
+hmdViewStatus_953932,UI Text,HMD,HMD
+eqNameText_619628,UI Text,VEHICLE OPTIONS,OPZIONI VEICOLO
 Text_954730,UI Text,"Sit comfortably
 and press menu
 (top button)
-to recenter",
-AltModeLabel_953220,UI Text,UNITS,
-unitOptsText_621558,UI Text,ALT WARN,
-JoyModeText_952514,UI Text,JOYSTICK MODE,
-JoyModeText_368540,UI Text,JOY SENS,
-eqNameText_621662,UI Text,UNIT OPTIONS,
-AltModeLabel_614816,UI Text,Alt Units,
-DistModeLabel_954954,UI Text,Dist Units,
-SpeedModeLabel_955738,UI Text,Speed Units,
-BackText_954528,UI Text,BACK,
-eqNameText_618502,UI Text,FUEL CONFIG,
-BingoAdjustTitle_621278,UI Text,BINGO LEVEL,
-eqNameText_620238,UI Text,ALTITUDE WARNINGS,
-title_620100,UI Text,MIN ALTITUDE,
-title_619128,UI Text,MAX ALTITUDE,
-modeTitle_620000,UI Text,MODE,
-hpequip_armedText,Label when an equip is armed,ARMED,
-hpEquip_jettisonText,Label when an equip is marked for jettison,JETTISON,
-MFD1PowerInteractable_955984,VR Interactable,MFD Power,
-masterArmSwitchInteractable_952966,VR Interactable,Master Arm Switch,
-coverSwitchInteractable_masterArm_955116,VR Interactable,Switch Cover (Master Arm),
-RWRModeInteractable_956554,VR Interactable,RWR Mode,
-CrsKnobInteractable_955406,VR Interactable,Course Set,
-APHeadingKnobInteractable_954746,VR Interactable,AP Heading Set,
-APSpeedAdjustInteractable_619146,VR Interactable,Auto Speed Set,
-title_955396,Analog speed gauge title,SPD,
-units_124018,Analog speed gauge units,KNOT,
-units_124074,Analog speed gauge units,m/s,
-units_125332,Analog speed gauge units,KPH,
-units_126248,Analog speed gauge units,MPH,
-units_125074,Analog speed gauge units,ft/s,
-title_955084,UI Text,ALT,
-APAltKnobInteractable_849860,VR Interactable,Adjust AP Altitude,
-PULL UP_955136,Label at bottom of VSI scale,PULL UP,
-OVER_952506,Label at top of VSI scale,OVER,
-RadarPowerInteractable_955242,VR Interactable,Radar Power,
-WingSwitchInteractable_954752,VR Interactable,Wing Fold,
-BrakeLockInteractable_954990,VR Interactable,Brake Locks,
-CommsVolumeKnob_953158,VR Interactable,Comm Radio Volume,
-MicPowerInteractable_953408,VR Interactable,Microphone,
+to recenter","Siediti comodo
+e premi menu
+(bottone in alto)
+per centrare"
+AltModeLabel_953220,UI Text,UNITS,UNITA'
+unitOptsText_621558,UI Text,ALT WARN,AVVISO QUOTA
+JoyModeText_952514,UI Text,JOYSTICK MODE,MODALITA' STICK
+JoyModeText_368540,UI Text,JOY SENS,SENS STICK
+eqNameText_621662,UI Text,UNIT OPTIONS,OPZIONI UNITA'
+AltModeLabel_614816,UI Text,Alt Units,Unità Alt
+DistModeLabel_954954,UI Text,Dist Units,Unità Dist
+SpeedModeLabel_955738,UI Text,Speed Units,Unità Speed
+BackText_954528,UI Text,BACK,INDIETRO
+eqNameText_618502,UI Text,FUEL CONFIG,CONFIG BENZA
+BingoAdjustTitle_621278,UI Text,BINGO LEVEL,LIVELLO BINGO
+eqNameText_620238,UI Text,ALTITUDE WARNINGS,AVVISI ALTITUDINE
+title_620100,UI Text,MIN ALTITUDE,ALTITUDINE MINIMA
+title_619128,UI Text,MAX ALTITUDE,ALTITUDINE MASSIMA
+modeTitle_620000,UI Text,MODE,MODALITA'
+hpequip_armedText,Label when an equip is armed,ARMED,ARMATO
+hpEquip_jettisonText,Label when an equip is marked for jettison,JETTISON,SGANCIO
+MFD1PowerInteractable_955984,VR Interactable,MFD Power,Interruttore MFD
+masterArmSwitchInteractable_952966,VR Interactable,Master Arm Switch,Interruttore Master ARM
+coverSwitchInteractable_masterArm_955116,VR Interactable,Switch Cover (Master Arm),Muovi Cover ( Master Arm)
+RWRModeInteractable_956554,VR Interactable,RWR Mode,Modalità RWR
+CrsKnobInteractable_955406,VR Interactable,Course Set,Imposta Rotta
+APHeadingKnobInteractable_954746,VR Interactable,AP Heading Set,Imposta direzione AP
+APSpeedAdjustInteractable_619146,VR Interactable,Auto Speed Set,Imposta Velocità Auto
+title_955396,Analog speed gauge title,SPD,SPD
+units_124018,Analog speed gauge units,KNOT,KNOT
+units_124074,Analog speed gauge units,m/s,m/s
+units_125332,Analog speed gauge units,KPH,KPH
+units_126248,Analog speed gauge units,MPH,MPH
+units_125074,Analog speed gauge units,ft/s,ft/s
+title_955084,UI Text,ALT,ALT
+APAltKnobInteractable_849860,VR Interactable,Adjust AP Altitude,Aggiusta Altitudine AP
+PULL UP_955136,Label at bottom of VSI scale,PULL UP,TIRA SU
+OVER_952506,Label at top of VSI scale,OVER,OVER
+RadarPowerInteractable_955242,VR Interactable,Radar Power,Interruttore Radar
+WingSwitchInteractable_954752,VR Interactable,Wing Fold,Piegamento Ali
+BrakeLockInteractable_954990,VR Interactable,Brake Locks,Blocco Freno
+CommsVolumeKnob_953158,VR Interactable,Comm Radio Volume,Volume Comm Radio
+MicPowerInteractable_953408,VR Interactable,Microphone,Microfono
 Text_95182,UI Text,"GAME WINDOW
-NOT IN FOCUS",
-ChaffInteractable_955162,VR Interactable,Toggle Chaff,
-FlareInteractable_954664,VR Interactable,Toggle Flares,
-AssistMasterInteractable_954136,VR Interactable,Toggle Flight Assist,
-PitchSASInteractable_956582,VR Interactable,Toggle Pitch Assist,
-YawSASInteractable_952486,VR Interactable,Toggle Yaw Assist,
-RollSASInteractable_954040,VR Interactable,Toggle Roll Assist,
-AutoTrimLabel_953970,UI Text,AUTOTRIM,
-On_955172,UI Text,PITCH,
-PitchAutoTrimInteractable_952572,VR Interactable,Toggle Pitch Trim,
-MissileModeText_953606,UI Text,OFF,
-GLimitInteractable_953432,VR Interactable,Toggle G-Limiter,
-CATOTrimInteractable_954262,VR Interactable,Catapult T/O Trim,
-FuelPort_956728,VR Interactable,Fuel Port,
-RadioVolumeKnob_954660,VR Interactable,Radio Volume,
-PrevButton_954098,VR Interactable,Prev Song,
-NextButton_953960,VR Interactable,Next Song,
-radioPlayPauseInteractable_953644,VR Interactable,Play/Pause,
-fuelDumpSwitchInteractable_535554,VR Interactable,Fuel Dump Switch,
-coverSwitchInteractable_fuelDump_535644,VR Interactable,Switch Cover (Fuel Dump),
-title_952152,UI Text,THROTTLE ADJUST,
-Fwd_957006,UI Text,LENGTH,
-Height_955094,UI Text,HEIGHT,
-InteriorLightInteractable_953350,VR Interactable,Interior Lights,
-InsturmentLightInteractable_953694,VR Interactable,Instrument Lights,
-LabelBrightnessKnob_953022,VR Interactable,Instrument Brightness,
-LandingLightInteractable_953626,VR Interactable,Landing Lights,
-StrobLightInteractable_956410,VR Interactable,Strobe Lights,
-NavLightInteractable_957046,VR Interactable,Nav Lights,
-releaseLabel_952578,UI Text,RELEASE,
-Label_955048,UI Text,SPEED,
-Label_956274,UI Text,HULL,
-Label_953580,UI Text,VERT,
-ASLText_954512,UI Text,ASL,
-RDRAltText_952740,UI Text,RDR,
-Text_955274,UI Text,[ COLLISION      WARNING ],
-Text_956286,UI Text,[ STALL          WARNING ],
-Label_954766,UI Text,HDG,
-HudBrakeLock_955152,UI Text,[ BRAKE LOCK ],
-Label_206876,HUD Unit label (g-force),G,
-Label_205078,HUD Unit label (mach),M,
-Text_955612,UI Text,-[ CHECK GEAR ]-,
+NOT IN FOCUS","FINESTRA DI GIOCO 
+NON IN PRIMO PIANO"
+ChaffInteractable_955162,VR Interactable,Toggle Chaff,Interruttore Chaff
+FlareInteractable_954664,VR Interactable,Toggle Flares,Interruttore Flares
+AssistMasterInteractable_954136,VR Interactable,Toggle Flight Assist,Interruttore Assistenze volo
+PitchSASInteractable_956582,VR Interactable,Toggle Pitch Assist,Interruttore Assistenza Beccheggio
+YawSASInteractable_952486,VR Interactable,Toggle Yaw Assist,Interruttore Assistenza Imbardata
+RollSASInteractable_954040,VR Interactable,Toggle Roll Assist,Interruttore Assistenza Rollio
+AutoTrimLabel_953970,UI Text,AUTOTRIM,AUTOTRIM
+On_955172,UI Text,PITCH,BECCHEGGIO
+PitchAutoTrimInteractable_952572,VR Interactable,Toggle Pitch Trim,Interruttore Trim Beccheggio
+MissileModeText_953606,UI Text,OFF,OFF
+GLimitInteractable_953432,VR Interactable,Toggle G-Limiter,Interruttore Limitatore-G
+CATOTrimInteractable_954262,VR Interactable,Catapult T/O Trim,Trim T/O Catapulta
+FuelPort_956728,VR Interactable,Fuel Port,Sportello Benzina
+RadioVolumeKnob_954660,VR Interactable,Radio Volume,Volume Radio
+PrevButton_954098,VR Interactable,Prev Song,Canzone Precedente
+NextButton_953960,VR Interactable,Next Song,Canzone Sucessiva
+radioPlayPauseInteractable_953644,VR Interactable,Play/Pause,Play/Pausa
+fuelDumpSwitchInteractable_535554,VR Interactable,Fuel Dump Switch,Interruttore Scarico Benzina
+coverSwitchInteractable_fuelDump_535644,VR Interactable,Switch Cover (Fuel Dump),Muovi Cover (Scarico Benzina)
+title_952152,UI Text,THROTTLE ADJUST,AGGIUSTA MANETTA
+Fwd_957006,UI Text,LENGTH,LUNGHEZZA
+Height_955094,UI Text,HEIGHT,ALTEZZA
+InteriorLightInteractable_953350,VR Interactable,Interior Lights,Luci Interne
+InsturmentLightInteractable_953694,VR Interactable,Instrument Lights,Luci Strumenti
+LabelBrightnessKnob_953022,VR Interactable,Instrument Brightness,Luminosità Strumenti
+LandingLightInteractable_953626,VR Interactable,Landing Lights,Luci d'atterraggio
+StrobLightInteractable_956410,VR Interactable,Strobe Lights,Luci Strobo
+NavLightInteractable_957046,VR Interactable,Nav Lights,Luci di Navigazione
+releaseLabel_952578,UI Text,RELEASE,SGANCIA
+Label_955048,UI Text,SPEED,VEL
+Label_956274,UI Text,HULL,SCAFO
+Label_953580,UI Text,VERT,VERT
+ASLText_954512,UI Text,ASL,ASL
+RDRAltText_952740,UI Text,RDR,RDR
+Text_955274,UI Text,[ COLLISION      WARNING ],[COLLISIONE  ATTENZIONE]
+Text_956286,UI Text,[ STALL          WARNING ],[STALLO  ATTENZIONE]
+Label_954766,UI Text,HDG,HDG
+HudBrakeLock_955152,UI Text,[ BRAKE LOCK ],[FRENO DI PARCHEGGIO]
+Label_206876,HUD Unit label (g-force),G,G
+Label_205078,HUD Unit label (mach),M,M
+Text_955612,UI Text,-[ CHECK GEAR ]-,-{ CONTROLLA CARRELLO }
 Label_953774,UI Text,"HVR
-ALT",
-Label_953448,UI Text,BRAKE,
+ALT","HVR
+ALT"
+Label_953448,UI Text,BRAKE,FRENO
 Label_953434,UI Text,"RDR
-BORESIGHT",
-HudWingFold_956664,UI Text,[ WING FOLD ],
-Text_620852,UI Text,PULL UP!,
-CamcorderObj_101710,VR Interactable,Move Camera,
+BORESIGHT","RDR
+BORESIGHT"
+HudWingFold_956664,UI Text,[ WING FOLD ],[ALI PIEGATE]
+Text_620852,UI Text,PULL UP!,TIRA SU!
+CamcorderObj_101710,VR Interactable,Move Camera,Muovi Camera

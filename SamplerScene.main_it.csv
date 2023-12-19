@@ -1,23 +1,30 @@
 Key,Description,en,it
 cloudDiagnostics_title,UI Text,Cloud Diagnostics,Diagnostica Cloud
-cloudDiagnostics_descript,UI Text,"Would you like to opt-in to enable cloud diagnostics? Anonymous information such as error messages, system specifications, and game version will be sent to the developer to help track down bugs and provide a smoother game experience. It would be a huge help! This setting can be changed at any time in the game settings menu.","Desideri attivare la diagnostica cloud? Informazioni anonime come messaggi di errore, specifiche di sistema e versione del gioco verranno inviate allo sviluppatore per aiutare a rintracciare i bug e fornire un'esperienza di gioco più fluida. Sarebbe un grande aiuto! Questa impostazione può essere modificata in qualsiasi momento nel menu delle impostazioni di gioco."
+cloudDiagnostics_descript,UI Text,"Would you like to opt-in to enable cloud diagnostics? Anonymous information such as error messages, system specifications, and game version will be sent to the developer to help track down bugs and provide a smoother game experience. It would be a huge help! This setting can be changed at any time in the game settings menu.","Vorresti abilitare la diagnostica cloud?
+Informazioni anonime come messaggi d'errore, specifiche di sistema, e versione del gioco saranno mandate allo sviluppatore per aiutare a trovare bug e fornire un esperienza migliore. Sarebbe di grande aiuto! Questa impostazione puÃ² essere cambiata in ogni momento nelle impostazioni."
 Text (2)_761854,UI Text,Accept,Accetta
-Text (2)_757242,UI Text,Deny,Nega
+Text (2)_757242,UI Text,Deny,Rifiuta
 news_workshop,Workshop notification window,"Download, play, and rate community-made missions and campaigns without leaving VR!
 
-Upload custom missions and maps in VTEditor!","Scarica, gioco e valuta missioni personalizzate e campagne senza uscire dal VR!"
-quitButton_709596,VR Interactable,Quit Game,Esci dal Gioco
+Upload custom missions and maps in VTEditor!","Scarica, gioca, e valuta missioni e campagne fatte dalla community senza uscire dalla VR!
+
+Carica missioni personalizzate e mappe in VTEditor!"
+quitButton_709596,VR Interactable,Quit Game,Esci dal gioco
 quitButtonText_711462,UI Text,Quit,Esci
-acceptEulaToPlay_655458,UI Text,Accept EULA to play,Acetta EULA per giocare
-startGameButton_714120,VR Interactable,Start Game,Inizia il Gioco
-startGameLabel_705546,UI Text,Start Game,Inizia il Gioco
+acceptEulaToPlay_655458,UI Text,Accept EULA to play,Accetta l'EULA per giocare
+startGameButton_714120,VR Interactable,Start Game,Inizia Gioco
+startGameLabel_705546,UI Text,Start Game,Inizia Gioco
 disclaimerText_707784,UI Text,"Motion Sickness Warning:
 This game may induce motion sickness.  
 It may take some time to get used to, but the feeling of nausea will diminish with practice. 
 
-If at any point you feel nauseous, please remove the HMD and take a break.",
+If at any point you feel nauseous, please remove the HMD and take a break.","Avviso Motion Sickness:
+Questo gioco potrebbe indurre al motion sickness.
+Potrebbe volerci del tempo per abituarsi, ma la sensazione di nausea diminuisce con la pratica.
+
+Se in qualsiasi momento ti senti nausea, per favore rimuovi il visore e prendi una pausa."
 Title_764004,UI Text,Language,Lingua
 AcceptButton_766562,VR Interactable,Accept,Accetta
-DenyButton_760444,VR Interactable,Deny,Nega
+DenyButton_760444,VR Interactable,Deny,Rifiuta
 SelectLangButton_2211708,VR Interactable,Select Language,Seleziona Lingua
 Handle_759118,VR Interactable,Scroll,Scorri
