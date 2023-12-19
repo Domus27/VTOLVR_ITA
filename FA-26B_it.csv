@@ -51,7 +51,7 @@ MasterCautionInteractable_955266,VR Interactable,Clear Cautions,Rimuovi Allarmi
 AltitudeModeInteractable_954586,VR Interactable,Toggle Altitude Mode,Imposta Modalità Altitudine
 ClrWptButton_956888,VR Interactable,Clear Waypoint,Rimuovi Waypoint
 headingAPButton_956800,VR Interactable,Heading Hold,Mantenimento direzione
-altitudeAPButton_952938,VR Interactable,Altitude Hold,"Mantenimeno altitudine "
+altitudeAPButton_952938,VR Interactable,Altitude Hold,Mantenimeno altitudine 
 speedAPButton_-3021126,VR Interactable,Airspeed Hold,Mantenimento velocità
 offAPButton_953862,VR Interactable,All AP Off,Tutti AP Off
 navAPButton_953656,VR Interactable,Navigation Mode,Modalità Navigazione
@@ -91,10 +91,10 @@ R","R
 W
 R"
 Text_956238,UI Text,VRMMFD v1.6,VRMMFD v1.6
-Text (1)_955806,UI Text,FUEL,BENZINA
+Text (1)_955806,UI Text,FUEL,CARBURANTE
 Text_955420,Internal Fuel,INTERNAL,INTERNO
 Text_955022,External Fuel,EXTERNAL,ESTERNO
-fuelDrainLabel_955210,UI Text,FUEL DRAIN,CONSUMO BENZINA
+fuelDrainLabel_955210,UI Text,FUEL DRAIN,CONSUMO CARBURANTE
 estTimeLabel_952850,UI Text,EST TIME,TEMPO STIMATO
 estDistLabel_956560,UI Text,EST DISTANCE,DISTANZA STIMATA
 twrLabel_952686,UI Text,MAX TWR,MAX TWR
@@ -115,7 +115,7 @@ N
 F
 O"
 powButtonMMFDRight_955652,VR Interactable,Power (MMFD Right),Interruttore (MMFD Destro)
-fuelButton_955472,VR Interactable,Fuel,Benzina
+fuelButton_955472,VR Interactable,Fuel,CARBURANTE
 fuelDrainButton_953542,VR Interactable,Info,Info
 Text_953094,UI Text,"VR MFCD
 1.0
@@ -248,13 +248,13 @@ PitchAutoTrimInteractable_952572,VR Interactable,Toggle Pitch Trim,Interruttore 
 MissileModeText_953606,UI Text,OFF,OFF
 GLimitInteractable_953432,VR Interactable,Toggle G-Limiter,Interruttore Limitatore-G
 CATOTrimInteractable_954262,VR Interactable,Catapult T/O Trim,Trim T/O Catapulta
-FuelPort_956728,VR Interactable,Fuel Port,Sportello Benzina
+FuelPort_956728,VR Interactable,Fuel Port,Sportello Carburante
 RadioVolumeKnob_954660,VR Interactable,Radio Volume,Volume Radio
 PrevButton_954098,VR Interactable,Prev Song,Canzone Precedente
 NextButton_953960,VR Interactable,Next Song,Canzone Sucessiva
 radioPlayPauseInteractable_953644,VR Interactable,Play/Pause,Play/Pausa
-fuelDumpSwitchInteractable_535554,VR Interactable,Fuel Dump Switch,Interruttore Scarico Benzina
-coverSwitchInteractable_fuelDump_535644,VR Interactable,Switch Cover (Fuel Dump),Muovi Cover (Scarico Benzina)
+fuelDumpSwitchInteractable_535554,VR Interactable,Fuel Dump Switch,Interruttore Scarico Carburante
+coverSwitchInteractable_fuelDump_535644,VR Interactable,Switch Cover (Fuel Dump),Muovi Cover (Scarico Carburante)
 title_952152,UI Text,THROTTLE ADJUST,AGGIUSTA MANETTA
 Fwd_957006,UI Text,LENGTH,LUNGHEZZA
 Height_955094,UI Text,HEIGHT,ALTEZZA
